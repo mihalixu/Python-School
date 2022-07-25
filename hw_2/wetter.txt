@@ -1,0 +1,7 @@
+Thursday: 21
+Friday: 19
+Saturday: 13
+Sunday: 17
+Monday: 19
+Tuesday: 21
+Wednesday: 16
